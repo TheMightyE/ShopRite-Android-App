@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">SR Work Schedule</string>
+    <string name="title_this_week">This Week</string>
+    <string name="title_next_week">Next Week</string>
+    <string name="title_pay">Pay Check</string>
+    <string name="welcome">Welcome to the ShopRite schedule viewer. Here you can view your current week\'s and next week\'s schedule.</string>
+
+    <!-- Headers -->
+    <string name="header_date">Date</string>
+    <string name="header_day">Day</string>
+    <string name="header_dept">Department</string>
+    <string name="header_start">Start</string>
+    <string name="header_end">End</string>
+    <string name="header_shift_len">Shift Length</string>
+    <string name="header_hours_in_day">Hours</string>
+    <string name="header_total_hours">Total Hours</string>
+    <string name="header_gross_pay">Gross Pay</string>
+    <string name="header_hrly_pay">Hourly Pay</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_username">Username</string>
+    <string name="prompt_password">Password</string>
+    <string name="prompt_new_password">New Password</string>
+    <string name="prompt_new_pass_repeat">Repeat Password</string>
+    <string name="action_sign_in">Log in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing username
+        completions."
+    </string>
+
+    <!-- Related to Change Password-->
+    <string name="action_submit">Submit</string>
+    <string name="title_chng_pass">Change Passwrd</string>
+
+    <!-- Information -->
+    <string name="no_info_available">Nothing to show.</string>
+
+    <!-- Errors -->
+    <string name="serverIOError">Could not make a connection to the server. Please try again later.</string>
+    <string name="incorrect_login_info">Username or password is incorrect</string>
+
+    <!-- Strings related to Settings -->
+    <string name="title_settings">Settings</string>
+    <string name="saved_hourly_pay">hourlyPay</string>
+    <string name="saved_hourly_pay_default">0.00</string>
+    <string name="settings_message">Enter your hourly pay</string>
+    <string name="settings_done">Done</string>
+    <string name="settings_save_btn">Save</string>
+
+
+    <!-- Strings related to JSON -->
+    <string name="requestType">request_type</string>
+    <string name="user">username</string>
+    <string name="pass">password</string>
+    <string name="hourlyPay">pay</string>
+    <string name="thisWeekPay">this_week_pay</string>
+    <string name="nextWeekPay">next_week_pay</string>
+    <string name="thisWeekHrs">this_week_hrs</string>
+    <string name="nextWeekHrs">next_week_hrs</string>
+
+
+</resources>
